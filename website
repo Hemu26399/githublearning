@@ -1,0 +1,20 @@
+This is chat application
+If the website is created by hosting/wordpress then the files are stored in the backend of the website, but if the website is created using website builder, then the files are not been stored.
+All the website files are stored under public_html >> contents of the website are stored under wp_contents >> wp_admin >> wp_tools.
+All the contents of the website are stored under public_html >> and the contents of the addon domain need to be created a folder under public_html and the contents should be stored under that.
+If the website need to save the information then SSL certificate is mandatory. This SSL will encrypt the website information and will display the special character instead of address or personal information. This SSL will give a secure for the people visiting the website.
+If the website needs to save from malware the the website should have Sitelock. This will help the website to clean the malware and secure your website.
+There are lot of cases registered based on the creating a copy of the domain name with adult extension. To stop this the website ownser can go with the trademark product which will really help the owner to save his domain from getting in trouble.
+
+To set up a redirect without the URL changing:
+<frameset rows="100%,*" border="0" frameborder="0">
+<frame name="__main" src="http://www.mydomain.com/" noresize frameborder="0">
+</frameset>
+
+Change colour of site title and decription:
+.site-title a {
+color: blue !important;
+}
+.site-description {
+color: blue !important;
+}
